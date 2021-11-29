@@ -1,0 +1,48 @@
+header {
+	background: red;
+	height: 110px;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-size: 40px;
+}
+
+nav {
+	background: orange;
+	height: 50px;
+	text-align: center;
+	font-size: 30px;
+}
+
+a {
+	color: white;
+}
+
+main {
+	background: green;
+	padding: 5px;
+}
+
+article {
+	background: blue;
+	width: 99%;
+	margin: auto;
+}
+
+h2 {
+	color: white;
+}
+
+li {
+	color: white;
+}
+
+footer {
+	background: violet;
+	padding: 30px;
+	font-size: 40px;
+	text-align: center;
+	color: white;
+}
