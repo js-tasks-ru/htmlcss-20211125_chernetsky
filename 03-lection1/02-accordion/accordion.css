@@ -1,6 +1,11 @@
 /* Стилизация аккордеона */
-
-.accordion {}
+.main {
+	border: 1px solid #ACB5BD;
+	box-sizing: border-box;
+	height: 495px;
+	width: 1440px;
+	padding: 75px 166px 0 544px;
+}
 
 .accordion__item {
     border: 1px solid #ACB5BD;
